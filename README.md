@@ -1,6 +1,6 @@
-# Marvel CSS Sprite Build
+# The Summer I Turned Pretty TV Series Character Build
 
-This repo is for the in class marvel build. The marvel build demonstrates the use of CSS sprites and other css layout techniques.
+This repo is for the in class marvel build. The Movie - The Summer I Turned Pretty's Character build demonstrates the use of CSS sprites and other css layout techniques.
 
 ## Installation
 
@@ -20,11 +20,11 @@ Open the index file in your browser of choice.
 
 ## History
 
-TODO: Write history
+March 2024
 
 ## Credits
 
-Marco De Luca
+Nguyen, Thi Thanh Thuong (Anna)
 
 ## License
 
